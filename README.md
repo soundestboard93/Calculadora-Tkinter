@@ -1,4 +1,4 @@
-# Calculadora Casio HL-815L en Tkinter
+# Calculadora en Tkinter
 
 Este repositorio contiene el código de una calculadora básica implementada en Python utilizando la biblioteca Tkinter. La calculadora está diseñada para emular la apariencia y funcionalidad de la calculadora Casio HL-815L. Permite realizar operaciones aritméticas simples como suma, resta, multiplicación y división.
 
